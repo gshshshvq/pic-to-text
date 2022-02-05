@@ -1,0 +1,4 @@
+PyTelegramBotAPI
+pytesseract
+python-magic
+Pillow
