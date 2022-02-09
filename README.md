@@ -21,7 +21,9 @@ After this check, we will know exactly which file the user sent. And depending o
 
 *Output* - message with **text** from your **pic**.
 
-:white_check_mark: For correct work on Windows system you need a Tesseract program. Download here: https://digi.bib.uni-mannheim.de/tesseract/ and pytesseract, Pillow libs.
+![](https://raw.githubusercontent.com/DmitryCherneckiy/pic-to-text/main/examples/example.png)
 
-:white_check_mark: The tutorial I used to install Tesseract on my linux machine: https://linuxhint.com/install-tesseract-ocr-linux/
+:white_check_mark: For correct work on Windows system you need a Tesseract program. Download [here](https://digi.bib.uni-mannheim.de/tesseract/), and pytesseract, Pillow libs.
+
+:white_check_mark: The tutorial I used to install Tesseract on my linux machine [here](https://linuxhint.com/install-tesseract-ocr-linux/).
 
